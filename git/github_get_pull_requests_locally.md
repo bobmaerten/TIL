@@ -16,3 +16,7 @@ So if you don't want to use the merge button, i.e. to rewrite history locally be
 If PR is issued from the very same repo, just add this line to the 'origin' remote:
 
     fetch = +refs/pull/*/head:refs/pull/origin/*
+
+## Sources
+https://news.ycombinator.com/item?id=9051220
+https://help.github.com/articles/checking-out-pull-requests-locally/
